@@ -1,0 +1,48 @@
+.boton{
+    background-color: #f06c15;
+    padding: 15px, 15px;
+    margin: 10px;
+    font-size: large;
+    border: 3px solid #020202;
+    text-align: center;
+}
+
+
+
+.texto-centrado {
+    text-align: center;
+}
+
+
+.imagen-y-texto {
+    display: flex;
+    align-items: center;
+}
+
+.imagen-y-texto img {
+    width: 150px;
+    height: auto; 
+}
+
+.elemento-redondeado {
+    width: 1345px;
+    height: 300px;
+    background-color: #f06c15;
+    border-radius: 25px;
+}
+
+.otro-elemento-redondeado {
+    width: 1345px;
+    height: 300px;
+    background-color: #f06c15;
+    border-radius: 25px;
+}
+
+#barra{
+    display: flex;
+}
+
+.contenedor {
+    padding-left: 23px; /* Agrega un espacio de 50 píxeles alrededor de la imagen */
+}
+
