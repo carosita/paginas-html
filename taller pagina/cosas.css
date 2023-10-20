@@ -1,9 +1,12 @@
 .boton{
     background-color: #f06c15;
-    padding: 15px, 15px;
-    margin: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 55px;
+    margin-right: 20px;
     font-size: large;
     border: 3px solid #020202;
+    border-radius: 25px;
     text-align: center;
 }
 
@@ -26,7 +29,7 @@
 
 .elemento-redondeado {
     width: 1345px;
-    height: 300px;
+    height: 350px;
     background-color: #f06c15;
     border-radius: 25px;
 }
@@ -37,12 +40,24 @@
     background-color: #f06c15;
     border-radius: 25px;
 }
+.uno-mas{
+    width: 1345px;
+    height: 775px;
+    background-color: #f06c15;
+    border-radius: 25px;
+}
 
 #barra{
     display: flex;
 }
 
 .contenedor {
-    padding-left: 23px; /* Agrega un espacio de 50 píxeles alrededor de la imagen */
+    padding-left: 23px;
 }
 
+/*colores:
+naranja: #dd8044
+naranja un poco más fuerte: #f06c15
+gris: #C0B9B8
+negro:#020202
+*/
